@@ -1,1 +1,4 @@
 arduino-ide_nightly-20250710_Linux_64bit
+*.o
+*.hex
+*.bin
